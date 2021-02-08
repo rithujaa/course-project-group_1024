@@ -1,1 +1,1 @@
-This forlder is for all the jupyter notebook files 
+This folder is for the submitted work
